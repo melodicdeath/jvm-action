@@ -1,5 +1,11 @@
 package ch2.heap;
 
+/*
+* 1.将SimpleHeap类加载到方法区
+* 2.new SimpleHeap(1)、new SimpleHeap(2)放入堆
+* 3.s1、s2放入栈
+* */
+
 public class SimpleHeap {
     private int id;
 
