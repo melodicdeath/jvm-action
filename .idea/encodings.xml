@@ -4,5 +4,7 @@
     <file url="file://$PROJECT_DIR$/src/main/java/ch3/heap/AllocDirectBuffer.java" charset="GBK" />
     <file url="file://$PROJECT_DIR$/src/main/java/ch3/heap/HeapAlloc.java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/src/main/java/ch3/trace/SimpleGc.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/ch4/ref/PhantomRef.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/ch4/ref/TraceCanReliveObj.java" charset="UTF-8" />
   </component>
 </project>
